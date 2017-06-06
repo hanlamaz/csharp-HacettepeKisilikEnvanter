@@ -1,0 +1,13 @@
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\bin\Debug\HacettepeKisilikEnvanteri.exe.config
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.csprojResolveAssemblyReference.cache
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.Form1.resources
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.Properties.Resources.resources
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.csproj.GenerateResource.Cache
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\bin\Debug\HacettepeKisilikEnvanteri.exe
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\bin\Debug\HacettepeKisilikEnvanteri.pdb
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.exe
+c:\users\hüseyin anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.pdb
+C:\Users\Hüseyin Anlamaz\documents\visual studio 2015\Projects\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.Form2.resources
+C:\Users\Hüseyin Anlamaz\Source\Repos\csharp-HacettepeKisilikEnvanteri\csharp-HacettepeKisilikEnvanter\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\bin\Debug\HacettepeKisilikEnvanteri.exe.config
+C:\Users\Hüseyin Anlamaz\Source\Repos\csharp-HacettepeKisilikEnvanteri\csharp-HacettepeKisilikEnvanter\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.exe
+C:\Users\Hüseyin Anlamaz\Source\Repos\csharp-HacettepeKisilikEnvanteri\csharp-HacettepeKisilikEnvanter\HacettepeKisilikEnvanteri\HacettepeKisilikEnvanteri\obj\Debug\HacettepeKisilikEnvanteri.pdb
